@@ -1,0 +1,57 @@
+.OverallPage
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ResultTitleStyle
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+.ResultSnippetStyle
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: smaller;
+}
+
+.ResultURLStyle
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: smaller;
+    color: #009900;
+}
+
+.SmallerFont
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: smaller;
+}
+
+a:link {color:blue; text-decoration:underline;}
+a:visited {color:purple; text-decoration:underline;}
+
+li {
+    margin-bottom: 10px;
+}
+
+header {
+    text-align:center;
+    padding:5px; 
+}
+nav {
+    line-height:30px;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
+}
+
+section {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
